@@ -1,1 +1,1 @@
-Currently the landing page for our website.
+Currently the landing page for [smiffenfeffer.com](http://smiffenfeffer.com).
